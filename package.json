@@ -2,10 +2,10 @@
   "name": "filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://AndreyHerzhov.github.io/Filmoteka",
+  "homepage": "https://derj-nobody.github.io/Filmoteka-js-team-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Filmoteka/"
+    "build": "parcel build src/*.html --public-url /Filmoteka-js-team-project/"
   },
   "repository": {
     "type": "git",
